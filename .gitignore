@@ -1,0 +1,31 @@
+# Local and recovery artifacts
+backups/
+RECOVERY_*.zip
+FINAL_SCHOLARLY_DOCX_ONLY/
+FINAL_DELIVERY/
+PUBLIC_RELEASE_DOCX_ONLY/
+github_upload_*/
+quran_compendium_build/
+islamic_studies_research_system/
+
+# Build and machine data
+*.json
+*.log
+*.tmp
+*.cache
+*.pyc
+__pycache__/
+.cache/
+raw_sources/
+cache/
+02_DATA/
+03_VALIDATION/
+04_SCRIPTS/
+05_REPORTS/
+06_ARCHIVE/
+07_LOGS/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
